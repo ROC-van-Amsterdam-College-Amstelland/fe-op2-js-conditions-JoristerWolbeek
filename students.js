@@ -13,7 +13,12 @@ function colorPick(elem) {
 
 
 
-    /* B) maak 4 if-statements die de variabele borderType vergelijkt met eenstring. De verschillende strings       worden getoond in je console die je bij A) hebt gebruikt. Deze kun je gebruiken.
+    /* B) maak 4 if-statements die de variabele borderType vergelijkt met eenstring. Je kunt gebruik maken van de verschillende strings die worden getoond in je console die je bij A) hebt gebruikt. Als de if-statement true is verander dan de kleur van de achtergrond voor een kleur van een van de andere blokken. 
+    
+    if(borderType......)
+    {
+
+    }
      */
 
 
