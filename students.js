@@ -20,6 +20,7 @@ function colorPick(elem) {
 
     }
      */
+    
     if(borderType)console.log(borderType) = "dashed" ;
     document.getElementById("paars").style.backgroundColor = "red" ;
 
@@ -35,7 +36,7 @@ function colorPick(elem) {
 
 
     /* C) Vul de code in de if-statements aan. Nu veranderd de backgroundColor maar nu moet je ervoor zorgen dat de border-type veranderd als de if-statement wordt uitgevoerd is (conditie: true) 
-    */
+    ik begrijp niet wat er gevraagd wordt. */
 
 
 }
