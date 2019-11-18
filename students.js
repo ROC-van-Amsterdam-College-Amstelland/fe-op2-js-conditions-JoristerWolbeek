@@ -9,7 +9,7 @@ function colorPick(elem) {
      */
 
     //console.log(borderType); // <--deze code staat nu nog in commentaar
-
+    console.log(borderType);
 
 
 
@@ -20,6 +20,17 @@ function colorPick(elem) {
 
     }
      */
+    if(borderType)console.log(borderType) = "dashed" ;
+    document.getElementById("paars").style.backgroundColor = "red" ;
+
+    if(borderType)console.log(borderType) = "dotted" ;
+    document.getElementById("paars").style.backgroundColor = "yellow" ;
+
+    if(borderType)console.log(borderType) = "ridge" ;
+    document.getElementById("paars").style.backgroundColor = "purple" ;
+
+    if(borderType)console.log(borderType) = "groove" ;
+    document.getElementById("paars").style.backgroundColor = "green" ;
 
 
 
@@ -28,3 +39,4 @@ function colorPick(elem) {
 
 
 }
+
